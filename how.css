@@ -53,6 +53,7 @@ a:active {
 
 body{
     background-color: black;
+    overflow-x: hidden;
 }
 
 #play{
