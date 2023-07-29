@@ -65,6 +65,7 @@ a:active {
 
 body{
     background-color: black;
+    overflow-x: hidden;
 }
 
 h2{
