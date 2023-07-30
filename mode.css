@@ -3,6 +3,7 @@
    margin: auto;
    width: 35%;  
    position: relative; bottom: -35px;
+    position: fixed;
 }
 
 #logo{
